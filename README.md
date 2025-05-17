@@ -5,7 +5,7 @@
 ### มหาวิทยาลัย : มหาวิทยาลัยธรรมศาสตร์
 ### คณะ : วิศวกรรมศาตร์ สาขา คอมพิวเตอร์
 ### รหัสนักศึกษา : 6610685205
-### ![image](https://github.com/user-attachments/assets/56508687-18d3-4ac1-8396-bc838288c629)
+
 
 <!--
 **6610685205/6610685205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
