@@ -4,67 +4,55 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Nonthapat+Boonprasith;" alt="Typing SVG" />
 
+</div>
+
 ---
 
 ## 🧑‍💻 Personal Info
-
-</div>
 
 - **Full Name:** Nonthapat Boonprasith  
 - **Nickname:** Non  
 - **Date of Birth:** 26 October 2004  
 - **University:** Thammasat University  
-- **Faculty :** Faculty of Engineering  
+- **Faculty:** Faculty of Engineering  
 - **Major:** Computer Engineering  
 - **Year:** 3rd Year  
 - **Student ID:** 6610685205  
 
 ---
 
-<div align="center">
-
 ## 🎯 Objective
-
-</div>
 
 I am a 3rd-year Computer Engineering student at Thammasat University who is interested in **Software Engineering, Web Development, Data Engineering, and AI/ML**.  
 I enjoy building real-world projects and continuously improving my skills through hands-on experience and competitions.
 
 ---
 
-<div align="center">
-
 ## 🛠️ Skills
 
-</div>
-
-### 💻 Programming Languages 
+### 💻 Programming Languages
 - Python  
 - Java  
-- JavaScript
-- C
-- Assembly
+- JavaScript  
+- C  
+- Assembly  
 
-### 🌐 Web Development 
+### 🌐 Web Development
 - Django  
 - HTML / CSS  
 
 ### 🗄️ Database
 - SQL  
 
-### ⚙️ Tools 
+### ⚙️ Tools
 - Git & GitHub  
 - Docker (Basic)  
-- API Integration
-- Linux
+- API Integration  
+- Linux  
 
 ---
 
-<div align="center">
-
 ## 🚀 Featured Projects
-
-</div>
 
 ### 🐦 BirdCLEF 2025 (Kaggle Competition)
 - Built a bird sound classification system using deep learning models.
@@ -85,21 +73,13 @@ I enjoy building real-world projects and continuously improving my skills throug
 
 <div align="center">
 
-<div align="center">
-
 # 📊 My GitHub History!
 
-</div>
-
----
-
-<div align="center">
-
 <!-- GitHub Stats Card -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=6610685205&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <!-- Most Used Languages -->
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6610685205&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -108,22 +88,22 @@ I enjoy building real-world projects and continuously improving my skills throug
 <div align="center">
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
-
-
-## 📫 ติดต่อ | Contact
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=6610685205&theme=tokyo-night&hide_border=true" />
 
 </div>
 
-- **GitHub:** https://github.com/6610685205
-- **Email:** nonthapat.bo@gmail.com 
-- **LinkedIn:** https://www.linkedin.com/in/nonthapat-boonprasith-0458aa3a4/
+---
+
+## 📫 Contact
+
+- **GitHub:** https://github.com/6610685205  
+- **Email:** nonthapat.bo@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/nonthapat-boonprasith-0458aa3a4/  
 
 ---
 
 <div align="center">
 
-✨ *Thank you for visiting my GitHub profile!*  
+✨ *Thank you for visiting my GitHub profile!* ✨  
+
 </div>
-
-
