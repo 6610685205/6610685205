@@ -42,7 +42,8 @@ I enjoy building real-world projects and continuously improving my skills throug
 - Python  
 - Java  
 - JavaScript
-- C  
+- C
+- Assembly
 
 ### 🌐 Web Development 
 - Django  
@@ -54,7 +55,8 @@ I enjoy building real-world projects and continuously improving my skills throug
 ### ⚙️ Tools 
 - Git & GitHub  
 - Docker (Basic)  
-- API Integration  
+- API Integration
+- Linux
 
 ---
 
