@@ -75,6 +75,12 @@ I enjoy building real-world projects and continuously improving my skills throug
 
 # 📊 My GitHub History!
 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=6610685205&show_icons=true&theme=tokyonight&rank_icon=github" alt="Nonthapat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6610685205&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</div>
 
 <div align="center">
 
