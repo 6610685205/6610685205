@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 แนะนำตัวเอง | Introduction
+# 👋 Introduction
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Nonthapat+Boonprasith;" alt="Typing SVG" />
 
 ---
 
-## 🧑‍💻 ข้อมูลส่วนตัว | Personal Info
+## 🧑‍💻 Personal Info
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-## 🎯 เป้าหมาย | Objective
+## 🎯 Objective
 
 </div>
 
@@ -34,24 +34,24 @@ I enjoy building real-world projects and continuously improving my skills throug
 
 <div align="center">
 
-## 🛠️ ทักษะ | Skills
+## 🛠️ Skills
 
 </div>
 
-### 💻 Programming Languages | ภาษาโปรแกรม
+### 💻 Programming Languages 
 - Python  
 - Java  
 - JavaScript
 - C  
 
-### 🌐 Web Development | เว็บแอป
+### 🌐 Web Development 
 - Django  
 - HTML / CSS  
 
-### 🗄️ Database | ฐานข้อมูล
+### 🗄️ Database
 - SQL  
 
-### ⚙️ Tools | เครื่องมือ
+### ⚙️ Tools 
 - Git & GitHub  
 - Docker (Basic)  
 - API Integration  
@@ -60,7 +60,7 @@ I enjoy building real-world projects and continuously improving my skills throug
 
 <div align="center">
 
-## 🚀 โปรเจคเด่น | Featured Projects
+## 🚀 Featured Projects
 
 </div>
 
