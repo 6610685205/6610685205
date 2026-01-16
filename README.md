@@ -73,14 +73,11 @@ I enjoy building real-world projects and continuously improving my skills throug
 
 <div align="center">
 
-# 📊 My GitHub History!
+## 🐍 Contribution Snake
 
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=6610685205&theme=tokyo-night&hide_border=true" />
+![Snake animation](https://github.com/6610685205/6610685205/blob/output/github-contribution-grid-snake.svg)
 
 </div>
----
 
 ## 📫 Contact
 
