@@ -85,6 +85,32 @@ I enjoy building real-world projects and continuously improving my skills throug
 
 <div align="center">
 
+<div align="center">
+
+# 📊 My GitHub History!
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<!-- Most Used Languages -->
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+
+
 ## 📫 ติดต่อ | Contact
 
 </div>
@@ -99,3 +125,5 @@ I enjoy building real-world projects and continuously improving my skills throug
 
 ✨ *Thank you for visiting my GitHub profile!*  
 </div>
+
+
