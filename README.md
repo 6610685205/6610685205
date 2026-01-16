@@ -78,15 +78,10 @@ I enjoy building real-world projects and continuously improving my skills throug
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6610685205&show_icons=true&theme=tokyonight&rank_icon=github" alt="Nonthapat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6610685205&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=6610685205&theme=github-compact&hide_border=false&border_color=30363d&bg_color=0d1117" />
 
-![Snake animation](https://github.com/6610685205/6610685205/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/6610685205/6610685205/blob/output/github-snake-dark.svg)
 
 </div>
 
