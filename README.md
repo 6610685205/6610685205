@@ -75,9 +75,9 @@ I enjoy building real-world projects and continuously improving my skills throug
 
 # 📊 My GitHub History!
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=6610685205&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://api.github-readme-stats.vercel.app/api?username=6610685205&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6610685205&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://api.github-readme-stats.vercel.app/api/top-langs/?username=6610685205&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -88,11 +88,6 @@ I enjoy building real-world projects and continuously improving my skills throug
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=6610685205&theme=tokyo-night&hide_border=true" />
 
 </div>
-
-<div align="center">
-<img height="160" src="https://streak-stats.demolab.com?user=6610685205&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
 
 ## 📫 Contact
