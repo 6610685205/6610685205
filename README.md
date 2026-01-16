@@ -10,14 +10,14 @@
 
 </div>
 
-- **Full Name | ชื่อ-นามสกุล:** Nonthapat Boonprasith  
-- **Nickname | ชื่อเล่น:** Non  
-- **Date of Birth | วันเกิด:** 26 October 2004  
-- **University | มหาวิทยาลัย:** Thammasat University  
-- **Faculty | คณะ:** Faculty of Engineering  
-- **Major | สาขา:** Computer Engineering  
-- **Year | ชั้นปี:** 3rd Year  
-- **Student ID | รหัสนักศึกษา:** 6610685205  
+- **Full Name:** Nonthapat Boonprasith  
+- **Nickname:** Non  
+- **Date of Birth:** 26 October 2004  
+- **University:** Thammasat University  
+- **Faculty :** Faculty of Engineering  
+- **Major:** Computer Engineering  
+- **Year:** 3rd Year  
+- **Student ID:** 6610685205  
 
 ---
 
