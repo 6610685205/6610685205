@@ -2,7 +2,7 @@
 
 # 👋 แนะนำตัวเอง | Introduction
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Nonthapat+Boonprasith;Computer+Engineering+Student+%7C+Thammasat+University;Passionate+in+Software+Development+%26+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Nonthapat+Boonprasith;" alt="Typing SVG" />
 
 ---
 
@@ -41,14 +41,14 @@ I enjoy building real-world projects and continuously improving my skills throug
 ### 💻 Programming Languages | ภาษาโปรแกรม
 - Python  
 - Java  
-- JavaScript  
+- JavaScript
+- C  
 
 ### 🌐 Web Development | เว็บแอป
 - Django  
 - HTML / CSS  
 
 ### 🗄️ Database | ฐานข้อมูล
-- SQLite  
 - SQL  
 
 ### ⚙️ Tools | เครื่องมือ
@@ -87,8 +87,8 @@ I enjoy building real-world projects and continuously improving my skills throug
 
 </div>
 
-- **GitHub:** *(add your link here)*  
-- **Email:** *(add your email here)*  
+- **GitHub:** https://github.com/6610685205
+- **Email:** nonthapat.bo@gmail.com 
 - **LinkedIn:** *(optional)*  
 
 ---
