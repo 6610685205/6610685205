@@ -77,16 +77,6 @@ I enjoy building real-world projects and continuously improving my skills throug
 
 ---
 
-## 📫 Contact
-
-- **GitHub:** https://github.com/6610685205  
-- **Email:** nonthapat.bo@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/nonthapat-boonprasith-0458aa3a4/  
-
----
-
-<div align="center">
-
 ✨ *Thank you for visiting my GitHub profile!* ✨  
 
 </div>
