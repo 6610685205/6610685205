@@ -81,7 +81,7 @@ I enjoy building real-world projects and continuously improving my skills throug
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=6610685205&theme=github-compact&hide_border=false&border_color=30363d&bg_color=0d1117" />
 
-![Snake animation](https://github.com/6610685205/6610685205/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/6610685205/6610685205/output/github-contribution-grid-snake.svg)
 
 </div>
 
