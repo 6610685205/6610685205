@@ -4,6 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Nonthapat+Boonprasith;" alt="Typing SVG" />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nonthapat-boonprasith-0458aa3a4/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nonthapat.bo@gmail.com)
+
 </div>
 
 ---
