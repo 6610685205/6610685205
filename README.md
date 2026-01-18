@@ -28,58 +28,45 @@ I enjoy building real-world projects and continuously improving my skills throug
 
 ---
 
-## 🛠️ Skills
+### 💻 Languages & Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-### 💻 Programming Languages
-- Python  
-- Java  
-- JavaScript  
-- C  
-- Assembly  
+### 🌐 Web & Frameworks
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🌐 Web Development
-- Django  
-- HTML / CSS  
-
-### 🗄️ Database
-- SQL  
-
-### ⚙️ Tools
-- Git & GitHub  
-- Docker (Basic)  
-- API Integration  
-- Linux  
+### 🗄️ Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🐦 BirdCLEF 2025 (Kaggle Competition)
-- Built a bird sound classification system using deep learning models.
-- Focused on spectrogram-based classification for biodiversity monitoring.
-- Models used: EfficientNet-B0, Vision Transformer (ViT), RegNet
-
-### 🗣️ TU Talk (Web Application)
-- A social web platform similar to Twitter for Thammasat University.
-- Features: posting, liking, reposting, saving posts, and community discussions.
-- Built using Django + HTML + CSS
-
-### 📈 Invest CLI (Python CLI Project)
-- A command-line application for checking stock, forex, and crypto data.
-- Supports watchlist management and API integration.
-- Uses Alpha Vantage API, News API, CoinGecko API
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🐦 BirdCLEF 2025** | Bird sound classification for biodiversity monitoring (Kaggle). | `EfficientNet-B0` `ViT` `PyTorch` |
+| **🗣️ TU Talk** | Campus social platform with real-time interaction features. | `Django` `PostgreSQL` `HTML/CSS` |
+| **📈 Invest CLI** | CLI tool for real-time Stock, Forex, and Crypto data tracking. | `Python` `REST APIs` `Pandas` |
 
 ---
 
-<div align="center">
-
-# 📊 My GitHub History!
-
-</div>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=6610685205&theme=github-compact&hide_border=false&border_color=30363d&bg_color=0d1117" />
+| **Stats Overview** | **Most Used Languages** |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api?username=6610685205&show_icons=true&theme=tokyonight&hide_border=true" height="180px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6610685205&layout=compact&theme=tokyonight&hide_border=true" height="180px" /> |
+
+### 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=6610685205&theme=github-compact&hide_border=false&border_color=30363d&bg_color=0d1117" width="900px" />
 
 ![Snake animation](https://raw.githubusercontent.com/6610685205/6610685205/output/github-snake.svg)
 
