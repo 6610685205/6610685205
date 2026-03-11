@@ -68,10 +68,13 @@ I enjoy building real-world projects and continuously improving my skills throug
 
 <div align="center">
 
-## 📊 GitHub Stats
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6610685205&theme=tokyonight)](https://github.com/6610685205)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=6610685205&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6610685205&layout=compact&theme=tokyonight&hide_border=true)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=6610685205&theme=tokyonight)](https://github.com/6610685205)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=6610685205&theme=tokyonight)](https://github.com/6610685205)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=6610685205&theme=tokyonight)](https://github.com/6610685205)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=6610685205&theme=tokyonight&utcOffset=7)](https://github.com/6610685205)
 
 </div>
 
