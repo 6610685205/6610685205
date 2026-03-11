@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nonthapat-boonprasith-0458aa3a4/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nonthapat.bo@gmail.com)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31csxqvckclfu7kav2aqgecnyoqi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
@@ -26,8 +27,6 @@ I am a 3rd-year Computer Engineering student at Thammasat University who is inte
 I enjoy building real-world projects and continuously improving my skills through hands-on experience and competitions.
 
 ---
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31csxqvckclfu7kav2aqgecnyoqi&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🛠️ Tech Stack
 
