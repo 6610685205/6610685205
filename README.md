@@ -68,6 +68,13 @@ I enjoy building real-world projects and continuously improving my skills throug
 
 <div align="center">
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=6610685205&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6610685205&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
 
 ### 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=6610685205&theme=github-compact&hide_border=false&border_color=30363d&bg_color=0d1117" width="900px" />
