@@ -27,6 +27,8 @@ I enjoy building real-world projects and continuously improving my skills throug
 
 ---
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31csxqvckclfu7kav2aqgecnyoqi&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Core
