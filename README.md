@@ -2,7 +2,7 @@
 
 # 👋 Introduction
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Nonthapat+Boonprasith;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=ff6eb4&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Nonthapat+Boonprasith;" alt="Typing SVG" />
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31csxqvckclfu7kav2aqgecnyoqi&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile) <br>
 
