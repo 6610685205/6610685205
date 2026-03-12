@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a0d1a,100:1f3a7a&height=120&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ffffd,50:1a6b7a,100:0d1117&height=120&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=2980b9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Non+%F0%9F%91%8B;Computer+Engineer+%40+Thammasat;Building+things+that+matter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=8ffffd&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Non+%F0%9F%91%8B;Computer+Engineer+%40+Thammasat;Building+things+that+matter." alt="Typing SVG" />
 
 <br/>
 
@@ -111,6 +111,6 @@ Currently  : Building real-world projects & sharpening skills through competitio
 
 *✨ Thanks for stopping by — feel free to explore my repos!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f3a7a,50:0a0d1a,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ffffd,50:1a6b7a,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
