@@ -19,7 +19,7 @@
 ```yaml
 Name       : Nonthapat Boonprasith (Non)
 University : Thammasat University · Computer Engineering · Year 3
-Interests  : Software Engineering · Web Dev · Data Engineering · AI/ML · CyberSecurity
+Interests  : Cloud Engineering · Software Engineer · DevOps · AI/ML · CyberSecurity
 Currently  : Building real-world projects & sharpening skills through competitions
 ```
 
